@@ -1,0 +1,9 @@
+Stem cells are biological cells that can differentiate into other types of stem cells and can divide to produce more of the same type of stem cells. They are found in multicellular organisms.
+
+In mammals, there are two broad types of stem cells: embryonic stem cells, which are isolated from the inner cell mass of blastocysts, and adult stem cells, which are found in various tissues. In adult organisms, stem cells and progenitor cells act as a repair system for the body, replenishing adult tissues. In a developing embryo, stem cells can differentiate into all the specialized cells—ectoderm, endoderm and mesoderm (see induced pluripotent stem cells)—but also maintain the normal turnover of regenerative organs, such as blood, skin, or intestinal tissues.
+
+There are three known accessible sources of autologous adult stem cells in humans:
+
+Bone marrow, which requires extraction by harvesting, that is, drilling into bone (typically the femur or iliac crest).
+Adipose tissue (fat cells), which requires extraction by liposuction.[citation needed]
+Blood, which requires extraction through apheresis, wherein blood is drawn from the donor (similar to a blood donation), and passed through a machine that extracts the stem cells and returns other portions of the blood to the donor.
